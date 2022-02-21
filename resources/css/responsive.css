@@ -1,0 +1,112 @@
+@media only screen and (max-width: 5000px){
+    body{
+        overflow-x: hidden;
+    }
+}
+@media only screen and (max-width: 1024px){
+    .row{
+        margin: 0 15px;
+    }
+    .head-text{
+        width: 90%;
+    }
+    .main-nav{
+        display: none;
+    }
+    form{
+        width: 100%;
+        margin-left: 0;
+    }
+    .mobile-menu span{
+        display: block;
+    }
+    
+}
+@media only screen and (max-width: 980px){
+    .span_1_of_4{
+        width: 49.2%;
+    }
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+    }
+    .about img{
+        margin-left: 12.5%;
+    }
+    header{
+        height: 65vh;
+    }
+    .padd{
+        padding-top: 0;
+    }
+    .footer .span_1_of_4{
+        text-align: center;
+    }
+    .footer .iconnn{
+        margin-left: 25%;
+    }
+    .footer .box{
+        height: 20rem;
+    }
+    .footer .box:nth-child(3){
+        margin-bottom: 5rem;
+    }
+}
+@media only screen and (max-width: 808px){
+    body{
+        overflow-x: hidden;
+    }
+}
+@media only screen and (max-width: 768px){
+    .about .lead{
+        font-size: 1.5rem;
+        line-height: 1.6;
+    }
+    .padd{
+        font-size: 1.5rem;
+        padding-top: 2rem;
+        margin: 0;
+    }
+    .quote{
+        font-size: 2.5rem;
+    }
+    .services .span_1_of_3 {
+	    width: 100%; 
+    }
+    .services .span_1_of_3:nth-child(2){
+        margin-left: 0;
+    }
+    .services .span_1_of_3:nth-child(3){
+        margin-left: 0;
+    }
+}
+@media only screen and (max-width: 580px){
+    .service{
+        display: none;
+    }
+    hr{
+        display: none;
+    }
+    .footer .box{
+     display: none;
+    }
+    .span_1_of_4{
+        width: 100%;
+    }
+    #service{
+        padding-top: 0;
+    }
+    .footer{
+        height: auto;
+        overflow-x: hidden;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .foter{
+        height: auto;
+    }
+    html{
+        overflow-x: hidden;
+    }
+    
+}
