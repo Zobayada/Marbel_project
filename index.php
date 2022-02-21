@@ -45,6 +45,7 @@ if (isset($_POST['submit'])) {
                   <li><a href="#journel">journel</a></li>
                   <li><a href="#team">Our team</a></li>
                   <li><a href="#contact">contact</a></li>
+                  <li><a href="#contact">Add New </a></li>
               </ul>
               <div class="mobile-menu">
                   <span class="bar" onclick="openNav()">&#9776;</span>
